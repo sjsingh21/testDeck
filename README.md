@@ -1,6 +1,8 @@
 testDeck
 ========
 
+This is a test for rendering presentation as per below steps.
+
 This is a test deck for publishing a slidify document.
 
 Fork this repo.
